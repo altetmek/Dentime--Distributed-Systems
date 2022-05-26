@@ -1,0 +1,9 @@
+MQTT_PASSWORD=PASSWORD
+MQTT_HOST=broker.dentime.today
+MQTT_PORT=8883
+MQTT_USERNAME=dentime
+MQTT_BASE_TOPIC=name/
+MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.yvbjb.mongodb.net/dentime?retryWrites=true&w=majority
+SKIP_AUTH=1
+STANDARD_APPOINTMENT_DURATION=30
+NUMBER_APPOINTMENTS_TO_PUBLISH=200
